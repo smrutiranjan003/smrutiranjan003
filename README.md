@@ -31,7 +31,7 @@
 
 <img width="26" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/like.png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Smruti Ranjan Mohapatra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smruti003//)](https://www.linkedin.com/in/smruti003//)
+[![Linkedin Badge](https://img.shields.io/badge/-smruti003-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smruti003//)](https://www.linkedin.com/in/smruti003//)
 
 <br>
 
