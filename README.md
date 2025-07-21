@@ -30,13 +30,6 @@
 
 </div>
 
-<br>
-
-<hr/>
-<br>
-
-<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smrutiranjan003&layout=compact&theme=blue-green" />
 
 <!-- Tech Stack -->
 <div align="center">
@@ -68,6 +61,15 @@
 
 
 ### Github Stats:
+
+<br>
+
+<hr/>
+<br>
+
+<img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=smrutiranjan003&layout=compact&theme=blue-green" />
+
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=smrutiranjan003&theme=tokyonight_duo&dates=28DDB7&fire=DD2727&sideLabels=DD7F19&ring=12B6DD&currStreakNum=DD2727&border=65EAD0B7)](https://git.io/streak-stats) -->
 
